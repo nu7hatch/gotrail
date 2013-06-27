@@ -2,6 +2,10 @@
 
 It's an uber simple logger with debug mode for golang.
 
+Pic of sniffing cat:
+
+![sniffing kitten](http://imgur.com/ilF3bhq)
+
 ## Installation
 
 Goinstall the package:
