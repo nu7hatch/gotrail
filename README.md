@@ -4,7 +4,7 @@ It's an uber simple logger with debug mode for golang.
 
 Pic of sniffing cat:
 
-![sniffing kitten](http://imgur.com/ilF3bhq)
+![sniffing kitten](http://i.imgur.com/ilF3bhq.jpg)
 
 ## Installation
 
