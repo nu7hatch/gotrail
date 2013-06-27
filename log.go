@@ -11,7 +11,7 @@ type Logger struct {
 }
 
 func New(out io.Writer) *Logger {
-	return NewNamedLogger(out, "")
+	return NewNamed(out, "")
 }
 
 func NewNamed(out io.Writer, prefix string) *Logger {
