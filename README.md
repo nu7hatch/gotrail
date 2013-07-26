@@ -20,15 +20,19 @@ Goinstall the package:
 
 It's very simple to use, example:
 
-    log := gotrail.New(os.Stdout)
-    log.Debug = true
+```go
+log := gotrail.New(os.Stdout)
+log.Debug = true
 
-    log.Printf("hello from gotrail!")
-    log.Debugf("never gonna give %s up....", "you")
+log.Printf("hello from gotrail!")
+log.Debugf("never gonna give %s up....", "you")
+```
 
 You can also use named (prefixed) loggers:
 
-    log := gotrail.NewNamed(os.Stdout, "prefix")
+```go
+log := gotrail.NewNamed(os.Stdout, "prefix")
+```
 
 Enjoy!
 
