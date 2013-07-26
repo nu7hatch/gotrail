@@ -34,5 +34,5 @@ Enjoy!
 
 ## License
 
-Copyright (C) 2013 by Chris Kowalik <chris@nu7hat.ch>
+Copyright (C) 2013 by Chris Kowalik <chris@nu7hat.ch><br />
 Released under MIT License.
